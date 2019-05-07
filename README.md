@@ -15,4 +15,4 @@ type bye or exit to stop the conversation (bot does not exit automatically)
 # How it works
 Behind the scenes, flowerbot is a simple state machine, that keeps track of where in the process of ordering it is.
 The state is changed based on what the user inputs 
-The bot keeps the current order, as well as a list of previous orders .
+The bot keeps the current order, as well as a list of previous orders.
