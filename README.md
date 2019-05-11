@@ -9,8 +9,8 @@ The current flower types are tulips and roses, the colors are red, green blue an
 
 # How to use
 The bot needs python 3.5 or higher to work.
-in your command line, open the main.py file using python, the script will then accept your input.
-type bye or exit to stop the conversation (bot does not exit automatically)
+In your command line, open the main.py file using python, the script will then accept your input.
+Type bye or exit to stop the conversation (bot does not exit automatically).
 
 # How it works
 Behind the scenes, flowerbot is a simple state machine, that keeps track of where in the process of ordering it is.
