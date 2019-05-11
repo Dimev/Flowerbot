@@ -1,7 +1,7 @@
 import engine
 import flowerbot
 
-print("RobotEngine v0.0.1")
+print("Flowerbot v0.0.1")
 print("written by Dimas Leenman")
 print("This is a simple demo of a chatbot")
 print("say bye or exit to stop the conversation")
